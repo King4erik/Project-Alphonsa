@@ -1,5 +1,5 @@
 # Project-Alphonsa
-<b>Hacking Alphonsa website to retrieve the database and critical informations</b>
+<b>Hacking Alphonsa website to retrieve the database and critical information</b>
 <br>
 <b>Vulnerabilities found now are:</b>
 <br>
@@ -13,7 +13,7 @@
       - The SQL code: 'OR'1'='1-- <br>
   </ul>
   <ul>
-          - This can modified to a more powerful one <br>
+          - This can be modified to a more powerful one <br>
   </ul>
   - Same-Origin Policy Vulnerabilities <br>
 </ul>
@@ -42,7 +42,7 @@
 </ul>
 </b>
 <br>
-<b>Recommended Vulnerabilites to study:<b>
+<b>Recommended Vulnerabilities to study:<b>
 <br>
 <ul>
   - SQL Injection <br>
