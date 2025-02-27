@@ -8,6 +8,9 @@
   - CSRF<br>
   - ReDOS<br>
   - SQL Injection<br>
+      - The SQL code: 'OR'1'='1-- <br>
+          - This can modified to a more powerful one <br>
+  - Same-Origin Policy Vulnerabilities <br>
 </ul>
 <br>
 <b>Targeted Vulnerabilities</b><br>
@@ -29,6 +32,24 @@
   - Try to make tools by yourself the most of the time if it is short so you can learn it<br>
 </ul>
 <br>
+<b>Recommended Vulnerabilites to study:<b>
+<br>
+<ul>
+  - SQL Injection <br>
+  - SSRF <br>
+  - RCE <br>
+  - Bypassing OTP <br>
+  - XSS <br>
+    <ul>
+    - Stored XSS <br>
+    - Reflected XSS <br>
+    - Dom-based XSS <br>
+    </ul>
+  - Race Conditions <br>
+  - PHP vulnerabilities <br>
+  - Application Logic Error and Broken Access Control <br>
+  - Same-Origin Policy Vulnerabilities <br>
+</ul>
 <b>
   Hackers working on this project are: <br>
   <ul>
