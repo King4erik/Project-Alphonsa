@@ -20,7 +20,7 @@
 </b>
 <br>
 <b>Targeted Vulnerabilities</b><br>
-<b></b>
+<b>
 <ul>
   - Escalating SQL Injection<br>
   - Bypassing the OTP<br>
